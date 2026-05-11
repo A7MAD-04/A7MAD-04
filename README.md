@@ -22,7 +22,7 @@
 
 I'm a Data Science student passionate about building real-world AI products — not just notebooks, but full-stack platforms with APIs, dashboards, and Docker.
 
-- 🎓 3rd Year Data Science student
+- 🎓 final Year Data Science student
 - 🔭 Currently building my ML portfolio
 - 🧠 Interested in NLP, Deep Learning, and MLOps
 - 📍 Based in Amman, Jordan
