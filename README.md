@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Ahmad Firas Alaina 👋</h1>
-
 <p align="center">
   <b>Data Scientist & ML Engineer</b> — Building end-to-end AI products
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-alaina-75ba7a319/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,7 +20,7 @@
 
 I'm a Data Science student passionate about building real-world AI products — not just notebooks, but full-stack platforms with APIs, dashboards, and Docker.
 
-- 🎓 final Year Data Science student
+- 🎓 Final Year Data Science student
 - 🔭 Currently building my ML portfolio
 - 🧠 Interested in NLP, Deep Learning, and MLOps
 - 📍 Based in Amman, Jordan
@@ -42,6 +40,20 @@ I'm a Data Science student passionate about building real-world AI products — 
 - Fully containerized with Docker Compose
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat&logo=github)](https://github.com/A7MAD-04/customer-churn-platform)
+
+---
+
+### 🧠 NLP Sentiment Analysis Platform
+> End-to-end NLP platform classifying airline tweet sentiment with 77.8% accuracy
+
+**Stack:** Python · Scikit-learn · NLTK · FastAPI · React · TypeScript · Docker
+
+- Full EDA on 14,640 labeled tweets with word clouds and visualizations
+- Trained Linear SVM with TF-IDF vectorization (Accuracy: 77.8%)
+- REST API with FastAPI + interactive React dashboard with probability charts
+- Fully containerized with Docker Compose
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat&logo=github)](https://github.com/A7MAD-04/nlp-sentiment-platform)
 
 ---
 
