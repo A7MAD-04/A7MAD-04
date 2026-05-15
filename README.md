@@ -86,6 +86,7 @@ I'm a Data Science student passionate about building real-world AI products — 
 |-------------|--------|
 | [Building Transformer-Based NLP Applications](https://learn.nvidia.com/certificates?id=dDNUHBzJSEuOBNjXKZeVmA) | NVIDIA |
 | [Data Parallelism: Train Deep Learning on Multiple GPUs](https://learn.nvidia.com/certificates?id=Ik_BzQQDQ42NQE48hspmjQ) | NVIDIA |
+| [Harnessing the Power of Data with Power BI](https://www.coursera.org/account/accomplishments/verify/NAZLIC4Z0WP3) | Coursera |
 
 ---
 
